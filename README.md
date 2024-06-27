@@ -15,4 +15,3 @@ Some text
 
 I turned back to commit before I added Self-improvement block and rewrote it
 
-
